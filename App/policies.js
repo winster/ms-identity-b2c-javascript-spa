@@ -9,8 +9,8 @@ const b2cPolicies = {
     },
     authorities: {
         signUpSignIn: {
-            authority: "https://winstertestorg101.onmicrosoft.com.b2clogin.com/winstertestorg101.onmicrosoft.com.onmicrosoft.com/B2C_1_susi",
+            authority: "https://winstertestorg101.b2clogin.com/winstertestorg101.onmicrosoft.com/B2C_1_susi",
         }
     },
-    authorityDomain: "winstertestorg101.onmicrosoft.com.b2clogin.com"
+    authorityDomain: "winstertestorg101.b2clogin.com"
 }
